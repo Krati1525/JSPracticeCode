@@ -1,0 +1,47 @@
+.px-example {
+  width: 500px;
+  height: 500px; 
+  background-color: rgb(161, 161, 92) ;
+}
+.px-heading {
+  width: 250px;
+  height: 250px;
+  background: rgb(105, 105, 24);
+  font-size: 100px;
+} 
+.per-example {
+  width: 100%;
+  /* height: 100%; */
+  background-color: black;
+  margin: 1%;
+}
+.per-heading {
+  /* height: 50%; */
+  /* width: 100%; */
+  background: rgb(105, 105, 24);
+  font-size: 1000%;
+} 
+.vh-vw-example {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  margin: 1vw;
+}
+.vh-vw-heading {
+  height: 50vh; 
+  width: 30vw;
+  background: rgb(105, 105, 24);
+  font-size: 10vw;
+} 
+.em-rem-example {
+  background-color: black;
+  margin: 1em;
+  font-size: 80%;
+}
+.em-rem-heading {
+  /* height: 50vh; 
+  width: 30vw; */
+  background: rgb(105, 105, 24);
+  /* font-size: 9em; */
+  font-size: 5.6rem;
+}
